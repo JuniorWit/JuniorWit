@@ -1,0 +1,8 @@
+{
+  "name": "주니어윗(JuniorWit) | 스타트업 채용·영업지원·백오피스 시간제 구독 서비스",
+  "description": "스타트업 창업 대표님을 위한 실전 사업파트너! 영업 직원 채용 부담 없는 영업기획·영업지원·세일즈, 전시회·박람회 준비 및 데모시연, 세금계산서 및 인사·총무·행정 백오피스 시간제 구독 서비스 주니어윗(JuniorWit).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
